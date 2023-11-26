@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dhaneshv21
+- 👋 Hi, I’m @dhanesh
 - 👀 I’m interested in cloud technologies and devops
 - 🌱 I’m currently learning everything related to devops
 - 💞️ I’m looking to collaborate on any project which is related to cloud domain
